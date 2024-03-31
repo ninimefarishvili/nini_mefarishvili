@@ -1,0 +1,25 @@
+div{
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+.form-wrap{
+    max-width: 430px;
+    margin: 0px 500px;
+    background: #cdc2c2d4;
+    padding: 15px 25px;
+    border-top: 8px solid rgb(28, 137, 88);
+    
+}
+
+a{
+    margin-left: 500px;
+}

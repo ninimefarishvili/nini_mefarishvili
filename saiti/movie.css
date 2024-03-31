@@ -1,0 +1,39 @@
+img {
+    border-radius: 50%;
+  }
+
+#dps{
+    border-radius: 70%;
+}
+
+img{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+h1{
+    color: rgb(163, 127, 255);
+    font-family:"Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;;
+}
+
+h2{
+    font-family:"Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal
+}
+
+p{
+    font-family:"Madimi One", sans-serif;
+    font-weight: 800;
+    font-style: normal
+}
+
+body{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAKgAswMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKeAiXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//Z);
+}
+
+#registration{
+    margin-top: 30px;
+}
