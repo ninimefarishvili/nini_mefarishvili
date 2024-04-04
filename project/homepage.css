@@ -1,0 +1,18 @@
+body{
+    background-image: url(background.jpg);
+    /* background-repeat: no-repeat; */
+}
+
+#h1{
+    margin-top: 300px ;
+    margin-bottom: 200px ;
+    margin-left: 400px ;
+    color: rgb(14, 18, 223);
+        
+}
+
+#h12{
+    
+    margin-left: 400px ;
+    color: rgb(14, 18, 223);
+}

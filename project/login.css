@@ -1,0 +1,13 @@
+.conteiner{
+    max-width: 430px;
+    margin: 100px 500px;
+    background: #cdc2c2d4;
+    padding: 15px 25px;
+    border-top: 8px solid rgb(28, 137, 88);
+}
+
+
+
+body{
+    background-color: bisque;
+}
